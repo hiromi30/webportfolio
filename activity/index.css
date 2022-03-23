@@ -1,0 +1,8 @@
+#banner{
+    background-image:url("image/Phuket.jpg");
+
+    /*starch the image*/
+    background-size:cover;
+    /*selects the part of the backgournd image that will used for the cover*/
+    background-position:center;
+}
